@@ -1,0 +1,9 @@
+Linear Regression = 1202.328949488949.
+
+Lasso Regression =  1202.2602094695203.
+
+Ridge Regression = 1206.3920417707923.
+
+Random Forest = My Rank 931 Score 1157.6594042866
+
+XGBoost = My Rank	 871 Score 1155.8479889735
